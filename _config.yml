@@ -1,0 +1,14 @@
+layout_spectrum: 0.6378462789580226
+typography_spectrum: 0.2708746816497296
+color:
+  brandStrength: 0.03412202466279268
+  lightness: 0.23383301100693643
+  saturation: 0.8864743674639612
+  rhythmicContrast: 0.9264094347599894
+  brandColors:
+    - '#E1B29E'
+    - '#000000'
+    - '#614D46'
+    - '#B08B7B'
+    - '#4A7C00'
+name: Lost & Living
